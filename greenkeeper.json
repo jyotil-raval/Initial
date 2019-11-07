@@ -1,0 +1,12 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "bower_components/angular-mocks/package.json",
+        "bower_components/angular/package.json",
+        "bower_components/bootstrap-sass/package.json",
+        "package.json"
+      ]
+    }
+  }
+}
